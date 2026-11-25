@@ -1,0 +1,448 @@
+crop,market,date,price,unit,price_per_kg,source_url,scraped_at,source
+Garlic,Gujranwala,2026-11-23,30600.0,PKR/100kg,306.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Gujrat,2026-11-23,29500.0,PKR/100kg,295.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Jampur,2026-11-23,28750.0,PKR/100kg,287.5,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Chak Jhumra,2026-11-23,28000.0,PKR/100kg,280.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Hafizabad,2026-11-23,23500.0,PKR/100kg,235.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Chakwal,2026-11-23,22750.0,PKR/100kg,227.5,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Faisalabad,2026-11-23,22500.0,PKR/100kg,225.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Jhang,2026-11-23,22500.0,PKR/100kg,225.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Kot Addu,2026-11-23,22500.0,PKR/100kg,225.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Bhalwal,2026-11-23,22000.0,PKR/100kg,220.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Kasur,2026-11-23,22000.0,PKR/100kg,220.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Hazro,2026-11-23,21350.0,PKR/100kg,213.5,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Gujar Khan,2026-11-23,21300.0,PKR/100kg,213.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Arifwala,2026-11-23,21000.0,PKR/100kg,210.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Kabirwala,2026-11-23,21000.0,PKR/100kg,210.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Chichawatni,2026-11-23,20500.0,PKR/100kg,205.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Bahawalpur,2026-11-23,20000.0,PKR/100kg,200.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Chishtian,2026-11-23,19600.0,PKR/100kg,196.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Burewala,2026-11-23,19500.0,PKR/100kg,195.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Bahawal Nagar,2026-11-23,19300.0,PKR/100kg,193.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Haroon Abad,2026-11-23,19015.0,PKR/100kg,190.15,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Kahror Pacca,2026-11-23,19000.0,PKR/100kg,190.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Bhakkar,2026-11-23,18700.0,PKR/100kg,187.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Kamalia,2026-11-23,15800.0,PKR/100kg,158.0,https://mandioye.com/amis/commodity/garlic-local,2026-11-23T18:12:44+05:00,mandioye.com
+Garlic,Qadirpurrawan,2026-11-23,39500.0,PKR/100kg,395.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Narowal,2026-11-23,29500.0,PKR/100kg,295.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Rajanpur,2026-11-23,28500.0,PKR/100kg,285.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Rawalpindi,2026-11-23,22150.0,PKR/100kg,221.5,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Kot Momin,2026-11-23,22000.0,PKR/100kg,220.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Pattoki,2026-11-23,22000.0,PKR/100kg,220.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Phularwan,2026-11-23,22000.0,PKR/100kg,220.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Kotradhakishan,2026-11-23,21700.0,PKR/100kg,217.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Mamu Kanjan,2026-11-23,21500.0,PKR/100kg,215.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Mianwali,2026-11-23,21150.0,PKR/100kg,211.5,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Lahore,2026-11-23,21000.0,PKR/100kg,210.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Mandi Bahauddin,2026-11-23,20500.0,PKR/100kg,205.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Pakpattan,2026-11-23,20000.0,PKR/100kg,200.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Okara,2026-11-23,19750.0,PKR/100kg,197.5,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Mailsi,2026-11-23,19500.0,PKR/100kg,195.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Minchanabad,2026-11-23,19500.0,PKR/100kg,195.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Multan,2026-11-23,19500.0,PKR/100kg,195.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Nankana Sahib,2026-11-23,19350.0,PKR/100kg,193.5,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Sadiq Abad,2026-11-23,19350.0,PKR/100kg,193.5,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Rahim Yar Khan,2026-11-23,19091.0,PKR/100kg,190.91,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Lodhran,2026-11-23,19000.0,PKR/100kg,190.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Muzafar Ghar,2026-11-23,19000.0,PKR/100kg,190.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Liaqat Pur,2026-11-23,18900.0,PKR/100kg,189.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Layyah,2026-11-23,12400.0,PKR/100kg,124.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=2,2026-11-23T18:12:46+05:00,mandioye.com
+Garlic,Wazirabad,2026-11-23,30600.0,PKR/100kg,306.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Garlic,Shakargarh,2026-11-23,29500.0,PKR/100kg,295.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Garlic,Talagang,2026-11-23,23400.0,PKR/100kg,234.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Garlic,Toba Tek Singh,2026-11-23,23000.0,PKR/100kg,230.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Garlic,Shorkot,2026-11-23,22500.0,PKR/100kg,225.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Garlic,Sargodha,2026-11-23,22000.0,PKR/100kg,220.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Garlic,Tandlianwala,2026-11-23,22000.0,PKR/100kg,220.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Garlic,Sialkot,2026-11-23,21750.0,PKR/100kg,217.5,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Garlic,Sheikhupura,2026-11-23,20500.0,PKR/100kg,205.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Garlic,Sahiwal,2026-11-23,20000.0,PKR/100kg,200.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Garlic,Vehari,2026-11-23,19500.0,PKR/100kg,195.0,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Garlic,Sangla Hill,2026-11-23,19350.0,PKR/100kg,193.5,https://mandioye.com/amis/commodity/garlic-local?date=2026-11-23&page=3,2026-11-23T18:12:49+05:00,mandioye.com
+Carrot,Jauharabad,2026-11-23,8200.0,PKR/100kg,82.0,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Gujrat,2026-11-23,7750.0,PKR/100kg,77.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Gujranwala,2026-11-23,7650.0,PKR/100kg,76.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Jhelum,2026-11-23,7450.0,PKR/100kg,74.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Chakwal,2026-11-23,7250.0,PKR/100kg,72.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Gujar Khan,2026-11-23,6900.0,PKR/100kg,69.0,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Bhakkar,2026-11-23,6800.0,PKR/100kg,68.0,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Hafizabad,2026-11-23,6750.0,PKR/100kg,67.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Jampur,2026-11-23,6500.0,PKR/100kg,65.0,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Bahawalpur,2026-11-23,5900.0,PKR/100kg,59.0,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Chiniot,2026-11-23,5600.0,PKR/100kg,56.0,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Jhang,2026-11-23,5450.0,PKR/100kg,54.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Chishtian,2026-11-23,5400.0,PKR/100kg,54.0,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Fort Abbas,2026-11-23,5400.0,PKR/100kg,54.0,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Bhalwal,2026-11-23,5250.0,PKR/100kg,52.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Burewala,2026-11-23,5250.0,PKR/100kg,52.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Chak Jhumra,2026-11-23,5250.0,PKR/100kg,52.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Faisalabad,2026-11-23,5250.0,PKR/100kg,52.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Hazro,2026-11-23,5250.0,PKR/100kg,52.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Haroon Abad,2026-11-23,5204.0,PKR/100kg,52.04,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Bahawal Nagar,2026-11-23,5150.0,PKR/100kg,51.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Arifwala,2026-11-23,5000.0,PKR/100kg,50.0,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Chichawatni,2026-11-23,4250.0,PKR/100kg,42.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Dera Ghazi Khan,2026-11-23,4250.0,PKR/100kg,42.5,https://mandioye.com/amis/commodity/carrot,2026-11-23T18:12:51+05:00,mandioye.com
+Carrot,Kasur,2026-11-23,7900.0,PKR/100kg,79.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Khudian,2026-11-23,7900.0,PKR/100kg,79.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Pattoki,2026-11-23,7900.0,PKR/100kg,79.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Phool Nagar,2026-11-23,7900.0,PKR/100kg,79.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Kotradhakishan,2026-11-23,7800.0,PKR/100kg,78.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Narowal,2026-11-23,7750.0,PKR/100kg,77.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Lahore,2026-11-23,7400.0,PKR/100kg,74.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Mianwali,2026-11-23,7200.0,PKR/100kg,72.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Layyah,2026-11-23,6800.0,PKR/100kg,68.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Kot Momin,2026-11-23,6250.0,PKR/100kg,62.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Mandi Bahauddin,2026-11-23,6250.0,PKR/100kg,62.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Kamalia,2026-11-23,6100.0,PKR/100kg,61.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Nankana Sahib,2026-11-23,6000.0,PKR/100kg,60.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Multan,2026-11-23,5750.0,PKR/100kg,57.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Kahror Pacca,2026-11-23,5400.0,PKR/100kg,54.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Lodhran,2026-11-23,5400.0,PKR/100kg,54.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Mailsi,2026-11-23,5250.0,PKR/100kg,52.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Minchanabad,2026-11-23,5250.0,PKR/100kg,52.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Muzafar Ghar,2026-11-23,5000.0,PKR/100kg,50.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Liaqat Pur,2026-11-23,4950.0,PKR/100kg,49.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Pakpattan,2026-11-23,4750.0,PKR/100kg,47.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Kot Addu,2026-11-23,4500.0,PKR/100kg,45.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Mamu Kanjan,2026-11-23,4500.0,PKR/100kg,45.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Okara,2026-11-23,3750.0,PKR/100kg,37.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=2,2026-11-23T18:12:54+05:00,mandioye.com
+Carrot,Sialkot,2026-11-23,9250.0,PKR/100kg,92.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Shakargarh,2026-11-23,7750.0,PKR/100kg,77.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Wazirabad,2026-11-23,7650.0,PKR/100kg,76.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Talagang,2026-11-23,7400.0,PKR/100kg,74.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Sarai Alamgir,2026-11-23,6800.0,PKR/100kg,68.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Sheikhupura,2026-11-23,6550.0,PKR/100kg,65.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Pir Mahal,2026-11-23,6350.0,PKR/100kg,63.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Rawalpindi,2026-11-23,6150.0,PKR/100kg,61.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Sangla Hill,2026-11-23,6000.0,PKR/100kg,60.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Toba Tek Singh,2026-11-23,5600.0,PKR/100kg,56.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Shorkot,2026-11-23,5450.0,PKR/100kg,54.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Phularwan,2026-11-23,5250.0,PKR/100kg,52.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Sargodha,2026-11-23,5250.0,PKR/100kg,52.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Taunsa Sharif,2026-11-23,5250.0,PKR/100kg,52.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Vehari,2026-11-23,5250.0,PKR/100kg,52.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Samundri,2026-11-23,5175.0,PKR/100kg,51.75,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Rahim Yar Khan,2026-11-23,4793.0,PKR/100kg,47.93,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Sadiq Abad,2026-11-23,4675.0,PKR/100kg,46.75,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Sahiwal,2026-11-23,4650.0,PKR/100kg,46.5,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Rajanpur,2026-11-23,4500.0,PKR/100kg,45.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Carrot,Tandlianwala,2026-11-23,4500.0,PKR/100kg,45.0,https://mandioye.com/amis/commodity/carrot?date=2026-11-23&page=3,2026-11-23T18:12:56+05:00,mandioye.com
+Peas,Jampur,2026-11-23,23500.0,PKR/100kg,235.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Jauharabad,2026-11-23,18200.0,PKR/100kg,182.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Burewala,2026-11-23,17000.0,PKR/100kg,170.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Dunyapur,2026-11-23,16750.0,PKR/100kg,167.5,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Bahawalpur,2026-11-23,16500.0,PKR/100kg,165.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Gujrat,2026-11-23,16500.0,PKR/100kg,165.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Jahanian,2026-11-23,16500.0,PKR/100kg,165.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Jhang,2026-11-23,16500.0,PKR/100kg,165.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Hazro,2026-11-23,16350.0,PKR/100kg,163.5,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Gujranwala,2026-11-23,16100.0,PKR/100kg,161.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Bhakkar,2026-11-23,16000.0,PKR/100kg,160.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Chakwal,2026-11-23,15500.0,PKR/100kg,155.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Chichawatni,2026-11-23,15000.0,PKR/100kg,150.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Gujar Khan,2026-11-23,14950.0,PKR/100kg,149.5,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Hafizabad,2026-11-23,14750.0,PKR/100kg,147.5,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Chishtian,2026-11-23,14600.0,PKR/100kg,146.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Fort Abbas,2026-11-23,14600.0,PKR/100kg,146.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Bhalwal,2026-11-23,14500.0,PKR/100kg,145.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Chak Jhumra,2026-11-23,14500.0,PKR/100kg,145.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Dera Ghazi Khan,2026-11-23,14500.0,PKR/100kg,145.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Faisalabad,2026-11-23,14500.0,PKR/100kg,145.0,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Chiniot,2026-11-23,14050.0,PKR/100kg,140.5,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Haroon Abad,2026-11-23,14011.0,PKR/100kg,140.11,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Arifwala,2026-11-23,12750.0,PKR/100kg,127.5,https://mandioye.com/amis/commodity/peas,2026-11-23T18:12:59+05:00,mandioye.com
+Peas,Kot Addu,2026-11-23,21500.0,PKR/100kg,215.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Muzafar Ghar,2026-11-23,19500.0,PKR/100kg,195.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Kalur Kot,2026-11-23,18600.0,PKR/100kg,186.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Kabirwala,2026-11-23,17500.0,PKR/100kg,175.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Liaqat Pur,2026-11-23,17100.0,PKR/100kg,171.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Mailsi,2026-11-23,17000.0,PKR/100kg,170.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Kasur,2026-11-23,16900.0,PKR/100kg,169.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Kamalia,2026-11-23,16800.0,PKR/100kg,168.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Jhelum,2026-11-23,16650.0,PKR/100kg,166.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Mandi Bahauddin,2026-11-23,16500.0,PKR/100kg,165.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Narowal,2026-11-23,16500.0,PKR/100kg,165.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Kotradhakishan,2026-11-23,16400.0,PKR/100kg,164.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Kahror Pacca,2026-11-23,16000.0,PKR/100kg,160.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Lodhran,2026-11-23,16000.0,PKR/100kg,160.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Lahore,2026-11-23,15850.0,PKR/100kg,158.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Kot Momin,2026-11-23,15500.0,PKR/100kg,155.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Multan,2026-11-23,15500.0,PKR/100kg,155.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Nankana Sahib,2026-11-23,14850.0,PKR/100kg,148.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Okara,2026-11-23,14750.0,PKR/100kg,147.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Layyah,2026-11-23,14650.0,PKR/100kg,146.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Pakpattan,2026-11-23,14550.0,PKR/100kg,145.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Mamu Kanjan,2026-11-23,14250.0,PKR/100kg,142.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Mianwali,2026-11-23,13950.0,PKR/100kg,139.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Minchanabad,2026-11-23,8500.0,PKR/100kg,85.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=2,2026-11-23T18:13:01+05:00,mandioye.com
+Peas,Rajanpur,2026-11-23,23500.0,PKR/100kg,235.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Sarai Alamgir,2026-11-23,19500.0,PKR/100kg,195.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Taunsa Sharif,2026-11-23,18750.0,PKR/100kg,187.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Vehari,2026-11-23,17000.0,PKR/100kg,170.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Pattoki,2026-11-23,16800.0,PKR/100kg,168.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Phool Nagar,2026-11-23,16800.0,PKR/100kg,168.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Talagang,2026-11-23,16700.0,PKR/100kg,167.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Pinanwal,2026-11-23,16650.0,PKR/100kg,166.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Shakargarh,2026-11-23,16500.0,PKR/100kg,165.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Shorkot,2026-11-23,16500.0,PKR/100kg,165.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Wazirabad,2026-11-23,16100.0,PKR/100kg,161.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Sialkot,2026-11-23,15750.0,PKR/100kg,157.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Rawalpindi,2026-11-23,15450.0,PKR/100kg,154.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Sheikhupura,2026-11-23,15250.0,PKR/100kg,152.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Toba Tek Singh,2026-11-23,15000.0,PKR/100kg,150.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Sangla Hill,2026-11-23,14850.0,PKR/100kg,148.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Rahim Yar Khan,2026-11-23,14812.0,PKR/100kg,148.12,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Phularwan,2026-11-23,14500.0,PKR/100kg,145.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Sargodha,2026-11-23,14500.0,PKR/100kg,145.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Sadiq Abad,2026-11-23,14450.0,PKR/100kg,144.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Tandlianwala,2026-11-23,14000.0,PKR/100kg,140.0,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Peas,Samundri,2026-11-23,13950.0,PKR/100kg,139.5,https://mandioye.com/amis/commodity/peas?date=2026-11-23&page=3,2026-11-23T18:13:04+05:00,mandioye.com
+Garlic,Chak Jhumra,2026-11-21,335.0,PKR/kg,335.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Jampur,2026-11-21,288.0,PKR/kg,288.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Rajanpur,2026-11-21,285.0,PKR/kg,285.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Bhalwal,2026-11-21,235.0,PKR/kg,235.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Chichawatni,2026-11-21,235.0,PKR/kg,235.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Hafizabad,2026-11-21,235.0,PKR/kg,235.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Gujranwala major,2026-11-21,232.0,PKR/kg,232.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Wazirabad,2026-11-21,232.0,PKR/kg,232.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Rawalpindi major,2026-11-22,231.0,PKR/kg,231.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Sahiwal major,2026-11-22,227.0,PKR/kg,227.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Depalpur,2026-11-19,225.0,PKR/kg,225.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Faisalabad major,2026-11-22,225.0,PKR/kg,225.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Gujrat major,2026-11-21,225.0,PKR/kg,225.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Kanganpur,2026-11-21,225.0,PKR/kg,225.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Kasur major,2026-11-21,225.0,PKR/kg,225.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Kot Addu,2026-11-21,225.0,PKR/kg,225.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Narowal,2026-11-21,225.0,PKR/kg,225.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Shakargarh,2026-11-21,225.0,PKR/kg,225.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Shorkot,2026-11-21,225.0,PKR/kg,225.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Talagang,2026-11-21,225.0,PKR/kg,225.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Chunian,2026-11-20,220.0,PKR/kg,220.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Jaranwala,2026-11-21,220.0,PKR/kg,220.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Kot Momin,2026-11-21,220.0,PKR/kg,220.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Lahore major,2026-11-22,220.0,PKR/kg,220.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Patoki,2026-11-20,220.0,PKR/kg,220.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Phularwan,2026-11-21,220.0,PKR/kg,220.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Sargodha major,2026-11-21,220.0,PKR/kg,220.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Tandlianwala,2026-11-21,220.0,PKR/kg,220.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Chakwal,2026-11-21,218.0,PKR/kg,218.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Okara major,2026-11-22,218.0,PKR/kg,218.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Sialkot major,2026-11-22,218.0,PKR/kg,218.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Kot Radha Kishan,2026-11-21,217.0,PKR/kg,217.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Sambrial,2026-11-20,217.0,PKR/kg,217.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Mamu Kanjan,2026-11-20,215.0,PKR/kg,215.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Renala Khurd,2026-11-19,215.0,PKR/kg,215.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Sheikhupura major,2026-11-22,215.0,PKR/kg,215.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Hazro,2026-11-21,214.0,PKR/kg,214.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Gujar Khan,2026-11-21,213.0,PKR/kg,213.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Mianwali major,2026-11-22,212.0,PKR/kg,212.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Nankana Sahib,2026-11-21,212.0,PKR/kg,212.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Sangla Hill,2026-11-21,212.0,PKR/kg,212.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Arifwala,2026-11-21,210.0,PKR/kg,210.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Kabirwala,2026-11-19,210.0,PKR/kg,210.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Pakpattan,2026-11-21,209.0,PKR/kg,209.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Khanpur,2026-11-16,206.0,PKR/kg,206.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Bahawalpur major,2026-11-21,205.0,PKR/kg,205.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Hasan Abdal,2026-11-03,205.0,PKR/kg,205.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Khanewal major,2026-11-19,200.0,PKR/kg,200.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Toba Tek Singh,2026-11-20,200.0,PKR/kg,200.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Chishtian,2026-11-21,196.0,PKR/kg,196.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Fort Abbas,2026-11-21,196.0,PKR/kg,196.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Burewala,2026-11-21,195.0,PKR/kg,195.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Jhang major,2026-11-22,195.0,PKR/kg,195.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Mailsi,2026-11-21,195.0,PKR/kg,195.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Mandi Bahauddin,2026-11-20,195.0,PKR/kg,195.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Minchanabad,2026-11-21,195.0,PKR/kg,195.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Multan major,2026-11-22,195.0,PKR/kg,195.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Qadirpur Rawan,2026-11-21,195.0,PKR/kg,195.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Vehari major,2026-11-22,195.0,PKR/kg,195.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Bahawalnagar major,2026-11-22,193.0,PKR/kg,193.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Rahim Yar Khan major,2026-11-22,191.0,PKR/kg,191.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Haroonabad,2026-11-21,190.0,PKR/kg,190.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Kahror Pacca,2026-11-21,190.0,PKR/kg,190.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Lodhran,2026-11-21,190.0,PKR/kg,190.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Muzaffargarh major,2026-11-22,190.0,PKR/kg,190.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Bhakkar,2026-11-21,187.0,PKR/kg,187.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Ahmadpur East,2026-11-21,185.0,PKR/kg,185.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Mian Channu,2026-10-31,185.0,PKR/kg,185.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Sadiqabad,2026-11-21,185.0,PKR/kg,185.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Jauharabad,2026-11-04,182.0,PKR/kg,182.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Liaquatpur,2026-11-21,180.0,PKR/kg,180.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Gojra,2026-11-21,179.0,PKR/kg,179.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Kamalia,2026-11-21,158.0,PKR/kg,158.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Garlic,Layyah,2026-11-21,124.0,PKR/kg,124.0,https://pakdatahub.com/mandi/garlic_local,2026-11-23T18:19:05+05:00,pakdatahub.com
+Carrot,Hasan Abdal,2026-11-03,101.0,PKR/kg,101.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Sialkot major,2026-11-22,92.5,PKR/kg,92.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Pinanwal,2026-11-12,89.0,PKR/kg,89.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Mandi Bahauddin,2026-11-20,87.5,PKR/kg,87.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Talagang,2026-11-21,83.0,PKR/kg,83.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Mian Channu,2026-10-31,82.5,PKR/kg,82.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Jauharabad,2026-11-21,82.0,PKR/kg,82.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Sambrial,2026-11-20,79.5,PKR/kg,79.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Chakwal,2026-11-21,79.0,PKR/kg,79.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Jhelum,2026-11-21,74.5,PKR/kg,74.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Lahore major,2026-11-22,74.0,PKR/kg,74.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Gujrat major,2026-11-21,72.5,PKR/kg,72.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Narowal,2026-11-21,72.5,PKR/kg,72.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Shakargarh,2026-11-21,72.5,PKR/kg,72.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Kalurkot,2026-11-17,71.0,PKR/kg,71.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Gujranwala major,2026-11-21,69.5,PKR/kg,69.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Wazirabad,2026-11-21,69.5,PKR/kg,69.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Gujar Khan,2026-11-21,69.0,PKR/kg,69.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Bhakkar,2026-11-21,68.0,PKR/kg,68.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Layyah,2026-11-21,68.0,PKR/kg,68.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Sarai Alamgir,2026-11-20,68.0,PKR/kg,68.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Bhalwal,2026-11-21,67.5,PKR/kg,67.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Hafizabad,2026-11-21,67.5,PKR/kg,67.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Kabirwala,2026-11-19,67.5,PKR/kg,67.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Mianwali major,2026-11-22,67.5,PKR/kg,67.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Shorkot,2026-11-21,67.5,PKR/kg,67.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Sheikhupura major,2026-11-22,65.5,PKR/kg,65.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Jhang major,2026-11-22,65.0,PKR/kg,65.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Dunyapur,2026-11-17,63.8,PKR/kg,63.8,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Pir Mahal,2026-11-21,63.0,PKR/kg,63.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Jahanian,2026-11-18,62.5,PKR/kg,62.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Khanewal major,2026-11-22,62.5,PKR/kg,62.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Kot Momin,2026-11-21,62.5,PKR/kg,62.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Mamu Kanjan,2026-11-20,62.5,PKR/kg,62.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Phularwan,2026-11-21,62.5,PKR/kg,62.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Sargodha major,2026-11-21,62.5,PKR/kg,62.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Chunian,2026-11-20,61.5,PKR/kg,61.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Kanganpur,2026-11-21,61.5,PKR/kg,61.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Kasur major,2026-11-21,61.5,PKR/kg,61.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Khudian,2026-11-21,61.5,PKR/kg,61.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Patoki,2026-11-20,61.5,PKR/kg,61.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Phool Nagar,2026-11-21,61.5,PKR/kg,61.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Rawalpindi major,2026-11-22,61.5,PKR/kg,61.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Kot Radha Kishan,2026-11-21,61.0,PKR/kg,61.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Jalalpur Pirwala,2026-11-17,60.0,PKR/kg,60.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Nankana Sahib,2026-11-21,60.0,PKR/kg,60.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Sangla Hill,2026-11-21,60.0,PKR/kg,60.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Kamalia,2026-11-21,59.0,PKR/kg,59.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Qadirpur Rawan,2026-11-21,57.5,PKR/kg,57.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Chiniot major,2026-11-22,56.0,PKR/kg,56.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Kahror Pacca,2026-11-21,56.0,PKR/kg,56.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Lodhran,2026-11-21,56.0,PKR/kg,56.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Toba Tek Singh,2026-11-21,56.0,PKR/kg,56.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Bahawalpur major,2026-11-21,54.0,PKR/kg,54.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Chishtian,2026-11-21,54.0,PKR/kg,54.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Fort Abbas,2026-11-20,54.0,PKR/kg,54.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Minchanabad,2026-11-21,53.0,PKR/kg,53.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Burewala,2026-11-21,52.5,PKR/kg,52.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Chak Jhumra,2026-11-21,52.5,PKR/kg,52.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Faisalabad major,2026-11-22,52.5,PKR/kg,52.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Hazro,2026-11-21,52.5,PKR/kg,52.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Mailsi,2026-11-21,52.5,PKR/kg,52.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Multan major,2026-11-22,52.5,PKR/kg,52.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Taunsa Sharif,2026-11-21,52.5,PKR/kg,52.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Vehari major,2026-11-22,52.5,PKR/kg,52.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Haroonabad,2026-11-21,52.0,PKR/kg,52.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Khanpur,2026-11-16,52.0,PKR/kg,52.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Samundri,2026-11-21,51.8,PKR/kg,51.8,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Bahawalnagar major,2026-11-22,51.5,PKR/kg,51.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Arifwala,2026-11-21,50.0,PKR/kg,50.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Jaranwala,2026-11-21,50.0,PKR/kg,50.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Liaquatpur,2026-11-21,49.5,PKR/kg,49.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Rahim Yar Khan major,2026-11-22,47.9,PKR/kg,47.9,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Pakpattan,2026-11-21,47.5,PKR/kg,47.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Sadiqabad,2026-11-21,46.8,PKR/kg,46.8,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Tandlianwala,2026-11-21,46.0,PKR/kg,46.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Gojra,2026-11-21,45.3,PKR/kg,45.3,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Jampur,2026-11-21,45.0,PKR/kg,45.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Kot Addu,2026-11-21,45.0,PKR/kg,45.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Muzaffargarh major,2026-11-22,45.0,PKR/kg,45.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Rajanpur,2026-11-21,45.0,PKR/kg,45.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Chichawatni,2026-11-21,42.5,PKR/kg,42.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Dera Ghazi Khan major,2026-11-22,42.5,PKR/kg,42.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Sahiwal major,2026-11-22,38.5,PKR/kg,38.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Okara major,2026-11-22,37.5,PKR/kg,37.5,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Carrot,Renala Khurd,2026-11-20,35.0,PKR/kg,35.0,https://pakdatahub.com/mandi/carrot,2026-11-23T18:19:11+05:00,pakdatahub.com
+Peas,Mian Channu,2026-10-31,370.0,PKR/kg,370.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Ahmadpur East,2026-11-21,315.0,PKR/kg,315.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Hasan Abdal,2026-11-02,314.0,PKR/kg,314.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Taunsa Sharif,2026-11-21,285.0,PKR/kg,285.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Jampur,2026-11-21,235.0,PKR/kg,235.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Rajanpur,2026-11-21,235.0,PKR/kg,235.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Khanpur,2026-11-16,234.0,PKR/kg,234.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Kot Addu,2026-11-21,215.0,PKR/kg,215.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Khudian,2026-11-14,209.0,PKR/kg,209.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Jauharabad,2026-11-21,200.0,PKR/kg,200.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Pasrur,2026-11-20,198.0,PKR/kg,198.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Abdul Hakim,2026-11-14,197.0,PKR/kg,197.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Muzaffargarh major,2026-11-22,195.0,PKR/kg,195.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Kalurkot,2026-11-20,189.0,PKR/kg,189.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Kamalia,2026-11-21,188.0,PKR/kg,188.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Mandi Bahauddin,2026-11-20,185.0,PKR/kg,185.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Gojra,2026-11-21,184.0,PKR/kg,184.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Dunyapur,2026-11-21,178.0,PKR/kg,178.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Hazro,2026-11-20,178.0,PKR/kg,178.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Sambrial,2026-11-20,177.0,PKR/kg,177.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Sarai Alamgir,2026-11-21,177.0,PKR/kg,177.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Bahawalpur major,2026-11-21,175.0,PKR/kg,175.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Gujrat major,2026-11-21,175.0,PKR/kg,175.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Mamu Kanjan,2026-11-20,175.0,PKR/kg,175.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Narowal,2026-11-21,175.0,PKR/kg,175.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Shakargarh,2026-11-21,175.0,PKR/kg,175.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Minchanabad,2026-11-18,174.0,PKR/kg,174.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Pakpattan,2026-11-21,173.0,PKR/kg,173.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Pir Mahal,2026-11-21,172.0,PKR/kg,172.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Chishtian,2026-11-21,172.0,PKR/kg,172.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Fort Abbas,2026-11-21,172.0,PKR/kg,172.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Gujranwala major,2026-11-21,172.0,PKR/kg,172.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Wazirabad,2026-11-21,172.0,PKR/kg,172.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Liaquatpur,2026-11-21,171.0,PKR/kg,171.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Burewala,2026-11-21,170.0,PKR/kg,170.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Jahanian,2026-11-21,170.0,PKR/kg,170.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Kabirwala,2026-11-20,170.0,PKR/kg,170.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Kahror Pacca,2026-11-21,170.0,PKR/kg,170.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Khanewal major,2026-11-22,170.0,PKR/kg,170.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Lodhran,2026-11-21,170.0,PKR/kg,170.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Mailsi,2026-11-21,170.0,PKR/kg,170.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Vehari major,2026-11-22,170.0,PKR/kg,170.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Haroonabad,2026-11-21,168.0,PKR/kg,168.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Talagang,2026-11-21,167.0,PKR/kg,167.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Rahim Yar Khan major,2026-11-22,166.0,PKR/kg,166.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Bhalwal,2026-11-21,165.0,PKR/kg,165.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Qadirpur Rawan,2026-11-21,165.0,PKR/kg,165.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Bahawalnagar major,2026-11-22,163.0,PKR/kg,163.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Sialkot major,2026-11-22,163.0,PKR/kg,163.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Bhakkar,2026-11-21,160.0,PKR/kg,160.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Toba Tek Singh,2026-11-21,160.0,PKR/kg,160.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Gujar Khan,2026-11-21,159.0,PKR/kg,159.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Lahore major,2026-11-22,159.0,PKR/kg,159.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Hafizabad,2026-11-21,158.0,PKR/kg,158.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Jhelum,2026-11-21,158.0,PKR/kg,158.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Nankana Sahib,2026-11-21,158.0,PKR/kg,158.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Pinanwal,2026-11-21,158.0,PKR/kg,158.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Sangla Hill,2026-11-21,158.0,PKR/kg,158.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Chak Jhumra,2026-11-21,155.0,PKR/kg,155.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Chakwal,2026-11-21,155.0,PKR/kg,155.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Dera Ghazi Khan major,2026-11-22,155.0,PKR/kg,155.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Kot Momin,2026-11-21,155.0,PKR/kg,155.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Multan major,2026-11-22,155.0,PKR/kg,155.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Phularwan,2026-11-21,155.0,PKR/kg,155.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Sargodha major,2026-11-21,155.0,PKR/kg,155.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Shorkot,2026-11-21,155.0,PKR/kg,155.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Sheikhupura major,2026-11-22,153.0,PKR/kg,153.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Arifwala,2026-11-21,150.0,PKR/kg,150.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Chichawatni,2026-11-21,150.0,PKR/kg,150.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Chiniot major,2026-11-21,150.0,PKR/kg,150.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Jaranwala,2026-11-21,150.0,PKR/kg,150.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Rawalpindi major,2026-11-22,150.0,PKR/kg,150.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Tandlianwala,2026-11-21,150.0,PKR/kg,150.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Sahiwal major,2026-11-22,149.0,PKR/kg,149.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Samundri,2026-11-21,149.0,PKR/kg,149.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Okara major,2026-11-22,148.0,PKR/kg,148.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Layyah,2026-11-21,147.0,PKR/kg,147.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Faisalabad major,2026-11-22,145.0,PKR/kg,145.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Renala Khurd,2026-11-20,145.0,PKR/kg,145.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Sadiqabad,2026-11-21,145.0,PKR/kg,145.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Chunian,2026-11-20,144.0,PKR/kg,144.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Kanganpur,2026-11-21,144.0,PKR/kg,144.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Kasur major,2026-11-21,144.0,PKR/kg,144.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Patoki,2026-11-20,144.0,PKR/kg,144.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Phool Nagar,2026-11-21,144.0,PKR/kg,144.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Kot Radha Kishan,2026-11-21,142.0,PKR/kg,142.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Mianwali major,2026-11-22,140.0,PKR/kg,140.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com
+Peas,Jhang major,2026-11-22,135.0,PKR/kg,135.0,https://pakdatahub.com/mandi/peas,2026-11-23T18:19:16+05:00,pakdatahub.com

@@ -1,0 +1,334 @@
+crop,market,date,price
+Carrot,Arifwala,2026-11-22,50.0
+Carrot,Bahawal Nagar,2026-11-22,51.5
+Carrot,Bhakkar,2026-11-22,68.0
+Carrot,Burewala,2026-11-22,52.5
+Carrot,Chak Jhumra,2026-11-22,52.5
+Carrot,Chichawatni,2026-11-22,42.5
+Carrot,Chiniot,2026-11-22,56.0
+Carrot,Faisalabad,2026-11-22,52.5
+Carrot,Fort Abbas,2026-11-22,54.0
+Carrot,Gujar Khan,2026-11-22,69.0
+Carrot,Hafizabad,2026-11-22,67.5
+Carrot,Haroon Abad,2026-11-22,52.04
+Carrot,Hazro,2026-11-22,52.5
+Carrot,Jampur,2026-11-22,45.0
+Carrot,Jauharabad,2026-11-22,82.0
+Carrot,Jhelum,2026-11-22,74.5
+Carrot,Kahror Pacca,2026-11-22,52.0
+Carrot,Kot Addu,2026-11-22,45.0
+Carrot,Kot Momin,2026-11-22,62.5
+Carrot,Lahore,2026-11-22,74.0
+Carrot,Layyah,2026-11-22,68.0
+Carrot,Lodhran,2026-11-22,52.0
+Carrot,Mailsi,2026-11-22,52.5
+Carrot,Mamu Kanjan,2026-11-22,45.0
+Carrot,Mianwali,2026-11-22,67.5
+Carrot,Multan,2026-11-22,52.5
+Carrot,Nankana Sahib,2026-11-22,60.0
+Carrot,Pakpattan,2026-11-22,47.5
+Carrot,Rahim Yar Khan,2026-11-22,47.93
+Carrot,Rawalpindi,2026-11-22,61.5
+Carrot,Sahiwal,2026-11-22,38.5
+Carrot,Sangla Hill,2026-11-22,60.0
+Carrot,Sheikhupura,2026-11-22,65.5
+Carrot,Sialkot,2026-11-22,92.5
+Carrot,Talagang,2026-11-22,83.0
+Carrot,Tandlianwala,2026-11-22,45.0
+Carrot,Taunsa Sharif,2026-11-22,52.5
+Carrot,Vehari,2026-11-22,52.5
+Carrot,Wazirabad,2026-11-22,79.5
+Garlic,Arifwala,2026-11-22,210.0
+Garlic,Bhakkar,2026-11-22,187.0
+Garlic,Burewala,2026-11-22,195.0
+Garlic,Chak Jhumra,2026-11-22,335.0
+Garlic,Chichawatni,2026-11-22,225.0
+Garlic,Faisalabad,2026-11-22,225.0
+Garlic,Gujar Khan,2026-11-22,213.0
+Garlic,Hafizabad,2026-11-22,235.0
+Garlic,Haroon Abad,2026-11-22,190.15
+Garlic,Hazro,2026-11-22,213.5
+Garlic,Jampur,2026-11-22,287.5
+Garlic,Kahror Pacca,2026-11-22,190.0
+Garlic,Kot Addu,2026-11-22,225.0
+Garlic,Kot Momin,2026-11-22,220.0
+Garlic,Lahore,2026-11-22,220.0
+Garlic,Layyah,2026-11-22,124.0
+Garlic,Lodhran,2026-11-22,190.0
+Garlic,Mailsi,2026-11-22,195.0
+Garlic,Mamu Kanjan,2026-11-22,215.0
+Garlic,Mianwali,2026-11-22,211.5
+Garlic,Multan,2026-11-22,195.0
+Garlic,Nankana Sahib,2026-11-22,206.5
+Garlic,Pakpattan,2026-11-22,209.0
+Garlic,Rahim Yar Khan,2026-11-22,190.91
+Garlic,Rajanpur,2026-11-22,285.0
+Garlic,Rawalpindi,2026-11-22,231.0
+Garlic,Sahiwal,2026-11-22,226.5
+Garlic,Sangla Hill,2026-11-22,206.5
+Garlic,Sheikhupura,2026-11-22,215.0
+Garlic,Sialkot,2026-11-22,217.5
+Garlic,Talagang,2026-11-22,225.0
+Garlic,Tandlianwala,2026-11-22,220.0
+Garlic,Vehari,2026-11-22,195.0
+Garlic,Wazirabad,2026-11-22,306.0
+Peas,Arifwala,2026-11-22,130.0
+Peas,Bhakkar,2026-11-22,160.0
+Peas,Burewala,2026-11-22,170.0
+Peas,Chak Jhumra,2026-11-22,145.0
+Peas,Chichawatni,2026-11-22,155.0
+Peas,Dera Ghazi Khan,2026-11-22,155.0
+Peas,Faisalabad,2026-11-22,145.0
+Peas,Fort Abbas,2026-11-22,161.0
+Peas,Gujar Khan,2026-11-22,149.5
+Peas,Hafizabad,2026-11-22,157.5
+Peas,Haroon Abad,2026-11-22,157.12
+Peas,Hazro,2026-11-22,159.5
+Peas,Jampur,2026-11-22,235.0
+Peas,Jauharabad,2026-11-22,200.0
+Peas,Jhelum,2026-11-22,157.5
+Peas,Kahror Pacca,2026-11-22,160.0
+Peas,Kot Addu,2026-11-22,225.0
+Peas,Kot Momin,2026-11-22,155.0
+Peas,Lahore,2026-11-22,158.5
+Peas,Layyah,2026-11-22,146.5
+Peas,Lodhran,2026-11-22,160.0
+Peas,Mailsi,2026-11-22,170.0
+Peas,Mamu Kanjan,2026-11-22,145.0
+Peas,Mianwali,2026-11-22,139.5
+Peas,Multan,2026-11-22,155.0
+Peas,Nankana Sahib,2026-11-22,148.5
+Peas,Pakpattan,2026-11-22,154.5
+Peas,Rahim Yar Khan,2026-11-22,165.55
+Peas,Rawalpindi,2026-11-22,150.0
+Peas,Sangla Hill,2026-11-22,148.5
+Peas,Sarai Alamgir,2026-11-22,177.0
+Peas,Sheikhupura,2026-11-22,152.5
+Peas,Sialkot,2026-11-22,162.5
+Peas,Talagang,2026-11-22,167.0
+Peas,Tandlianwala,2026-11-22,140.0
+Peas,Taunsa Sharif,2026-11-22,187.5
+Peas,Vehari,2026-11-22,170.0
+Peas,Wazirabad,2026-11-22,167.5
+Carrot,Arifwala,2026-11-23,50.0
+Carrot,Bahawal Nagar,2026-11-23,51.5
+Carrot,Bhakkar,2026-11-23,68.0
+Carrot,Burewala,2026-11-23,52.5
+Carrot,Chak Jhumra,2026-11-23,52.5
+Carrot,Chichawatni,2026-11-23,42.5
+Carrot,Chiniot,2026-11-23,56.0
+Carrot,Faisalabad,2026-11-23,52.5
+Carrot,Fort Abbas,2026-11-23,54.0
+Carrot,Gujar Khan,2026-11-23,69.0
+Carrot,Hafizabad,2026-11-23,67.5
+Carrot,Haroon Abad,2026-11-23,52.04
+Carrot,Hazro,2026-11-23,52.5
+Carrot,Jampur,2026-11-23,65.0
+Carrot,Jauharabad,2026-11-23,82.0
+Carrot,Jhelum,2026-11-23,74.5
+Carrot,Kahror Pacca,2026-11-23,54.0
+Carrot,Kot Addu,2026-11-23,45.0
+Carrot,Kot Momin,2026-11-23,62.5
+Carrot,Lahore,2026-11-23,74.0
+Carrot,Layyah,2026-11-23,68.0
+Carrot,Lodhran,2026-11-23,54.0
+Carrot,Mailsi,2026-11-23,52.5
+Carrot,Mamu Kanjan,2026-11-23,45.0
+Carrot,Mianwali,2026-11-23,72.0
+Carrot,Multan,2026-11-23,57.5
+Carrot,Nankana Sahib,2026-11-23,60.0
+Carrot,Pakpattan,2026-11-23,47.5
+Carrot,Rahim Yar Khan,2026-11-23,47.93
+Carrot,Rawalpindi,2026-11-23,61.5
+Carrot,Sahiwal,2026-11-23,46.5
+Carrot,Sangla Hill,2026-11-23,60.0
+Carrot,Sheikhupura,2026-11-23,65.5
+Carrot,Sialkot,2026-11-23,92.5
+Carrot,Talagang,2026-11-23,74.0
+Carrot,Tandlianwala,2026-11-23,45.0
+Carrot,Taunsa Sharif,2026-11-23,52.5
+Carrot,Vehari,2026-11-23,52.5
+Carrot,Wazirabad,2026-11-23,76.5
+Garlic,Arifwala,2026-11-23,210.0
+Garlic,Bhakkar,2026-11-23,187.0
+Garlic,Burewala,2026-11-23,195.0
+Garlic,Chak Jhumra,2026-11-23,280.0
+Garlic,Chichawatni,2026-11-23,205.0
+Garlic,Faisalabad,2026-11-23,225.0
+Garlic,Gujar Khan,2026-11-23,213.0
+Garlic,Hafizabad,2026-11-23,235.0
+Garlic,Haroon Abad,2026-11-23,190.15
+Garlic,Hazro,2026-11-23,213.5
+Garlic,Jampur,2026-11-23,287.5
+Garlic,Kahror Pacca,2026-11-23,190.0
+Garlic,Kot Addu,2026-11-23,225.0
+Garlic,Kot Momin,2026-11-23,220.0
+Garlic,Lahore,2026-11-23,210.0
+Garlic,Layyah,2026-11-23,124.0
+Garlic,Lodhran,2026-11-23,190.0
+Garlic,Mailsi,2026-11-23,195.0
+Garlic,Mamu Kanjan,2026-11-23,215.0
+Garlic,Mianwali,2026-11-23,211.5
+Garlic,Multan,2026-11-23,195.0
+Garlic,Nankana Sahib,2026-11-23,193.5
+Garlic,Pakpattan,2026-11-23,200.0
+Garlic,Rahim Yar Khan,2026-11-23,190.91
+Garlic,Rajanpur,2026-11-23,285.0
+Garlic,Rawalpindi,2026-11-23,221.5
+Garlic,Sahiwal,2026-11-23,200.0
+Garlic,Sangla Hill,2026-11-23,193.5
+Garlic,Sheikhupura,2026-11-23,205.0
+Garlic,Sialkot,2026-11-23,217.5
+Garlic,Talagang,2026-11-23,234.0
+Garlic,Tandlianwala,2026-11-23,220.0
+Garlic,Vehari,2026-11-23,195.0
+Garlic,Wazirabad,2026-11-23,306.0
+Peas,Arifwala,2026-11-23,127.5
+Peas,Bhakkar,2026-11-23,160.0
+Peas,Burewala,2026-11-23,170.0
+Peas,Chak Jhumra,2026-11-23,145.0
+Peas,Chichawatni,2026-11-23,150.0
+Peas,Dera Ghazi Khan,2026-11-23,145.0
+Peas,Faisalabad,2026-11-23,145.0
+Peas,Fort Abbas,2026-11-23,146.0
+Peas,Gujar Khan,2026-11-23,149.5
+Peas,Hafizabad,2026-11-23,147.5
+Peas,Haroon Abad,2026-11-23,140.11
+Peas,Hazro,2026-11-23,163.5
+Peas,Jampur,2026-11-23,235.0
+Peas,Jauharabad,2026-11-23,182.0
+Peas,Jhelum,2026-11-23,166.5
+Peas,Kahror Pacca,2026-11-23,160.0
+Peas,Kot Addu,2026-11-23,215.0
+Peas,Kot Momin,2026-11-23,155.0
+Peas,Lahore,2026-11-23,158.5
+Peas,Layyah,2026-11-23,146.5
+Peas,Lodhran,2026-11-23,160.0
+Peas,Mailsi,2026-11-23,170.0
+Peas,Mamu Kanjan,2026-11-23,142.5
+Peas,Mianwali,2026-11-23,139.5
+Peas,Multan,2026-11-23,155.0
+Peas,Nankana Sahib,2026-11-23,148.5
+Peas,Pakpattan,2026-11-23,145.5
+Peas,Rahim Yar Khan,2026-11-23,148.12
+Peas,Rawalpindi,2026-11-23,154.5
+Peas,Sangla Hill,2026-11-23,148.5
+Peas,Sarai Alamgir,2026-11-23,195.0
+Peas,Sheikhupura,2026-11-23,152.5
+Peas,Sialkot,2026-11-23,157.5
+Peas,Talagang,2026-11-23,167.0
+Peas,Tandlianwala,2026-11-23,140.0
+Peas,Taunsa Sharif,2026-11-23,187.5
+Peas,Vehari,2026-11-23,170.0
+Peas,Wazirabad,2026-11-23,161.0
+Carrot,Arifwala,2026-11-24,50.0
+Carrot,Bahawal Nagar,2026-11-24,51.5
+Carrot,Bhakkar,2026-11-24,68.0
+Carrot,Burewala,2026-11-24,52.5
+Carrot,Chak Jhumra,2026-11-24,52.5
+Carrot,Chichawatni,2026-11-24,42.5
+Carrot,Chiniot,2026-11-24,56.0
+Carrot,Faisalabad,2026-11-24,52.5
+Carrot,Fort Abbas,2026-11-24,54.0
+Carrot,Gujar Khan,2026-11-24,69.0
+Carrot,Hafizabad,2026-11-24,67.5
+Carrot,Haroon Abad,2026-11-24,52.04
+Carrot,Hazro,2026-11-24,61.5
+Carrot,Jampur,2026-11-24,45.0
+Carrot,Jauharabad,2026-11-24,73.0
+Carrot,Jhelum,2026-11-24,70.0
+Carrot,Kahror Pacca,2026-11-24,58.0
+Carrot,Kot Addu,2026-11-24,45.0
+Carrot,Kot Momin,2026-11-24,62.5
+Carrot,Lahore,2026-11-24,74.0
+Carrot,Layyah,2026-11-24,68.0
+Carrot,Lodhran,2026-11-24,51.5
+Carrot,Mailsi,2026-11-24,52.5
+Carrot,Mamu Kanjan,2026-11-24,45.0
+Carrot,Mianwali,2026-11-24,67.5
+Carrot,Multan,2026-11-24,57.5
+Carrot,Nankana Sahib,2026-11-24,59.5
+Carrot,Pakpattan,2026-11-24,47.5
+Carrot,Rahim Yar Khan,2026-11-24,47.93
+Carrot,Rawalpindi,2026-11-24,70.5
+Carrot,Sahiwal,2026-11-24,38.5
+Carrot,Sangla Hill,2026-11-24,59.5
+Carrot,Sheikhupura,2026-11-24,65.5
+Carrot,Sialkot,2026-11-24,67.5
+Carrot,Talagang,2026-11-24,74.0
+Carrot,Tandlianwala,2026-11-24,45.0
+Carrot,Taunsa Sharif,2026-11-24,47.5
+Carrot,Vehari,2026-11-24,52.5
+Carrot,Wazirabad,2026-11-24,79.5
+Garlic,Arifwala,2026-11-24,190.0
+Garlic,Bhakkar,2026-11-24,187.0
+Garlic,Burewala,2026-11-24,195.0
+Garlic,Chak Jhumra,2026-11-24,280.0
+Garlic,Chichawatni,2026-11-24,205.0
+Garlic,Faisalabad,2026-11-24,225.0
+Garlic,Gujar Khan,2026-11-24,213.0
+Garlic,Hafizabad,2026-11-24,235.0
+Garlic,Haroon Abad,2026-11-24,190.15
+Garlic,Hazro,2026-11-24,209.5
+Garlic,Jampur,2026-11-24,287.5
+Garlic,Kahror Pacca,2026-11-24,190.0
+Garlic,Kot Addu,2026-11-24,215.0
+Garlic,Kot Momin,2026-11-24,220.0
+Garlic,Lahore,2026-11-24,210.0
+Garlic,Layyah,2026-11-24,124.0
+Garlic,Lodhran,2026-11-24,190.0
+Garlic,Mailsi,2026-11-24,195.0
+Garlic,Mamu Kanjan,2026-11-24,215.0
+Garlic,Mianwali,2026-11-24,211.5
+Garlic,Multan,2026-11-24,195.0
+Garlic,Nankana Sahib,2026-11-24,193.5
+Garlic,Pakpattan,2026-11-24,191.0
+Garlic,Rahim Yar Khan,2026-11-24,190.91
+Garlic,Rajanpur,2026-11-24,285.0
+Garlic,Rawalpindi,2026-11-24,226.5
+Garlic,Sahiwal,2026-11-24,218.5
+Garlic,Sangla Hill,2026-11-24,193.5
+Garlic,Sheikhupura,2026-11-24,205.0
+Garlic,Sialkot,2026-11-24,217.5
+Garlic,Talagang,2026-11-24,234.0
+Garlic,Tandlianwala,2026-11-24,220.0
+Garlic,Vehari,2026-11-24,195.0
+Garlic,Wazirabad,2026-11-24,204.0
+Peas,Arifwala,2026-11-24,127.5
+Peas,Bhakkar,2026-11-24,160.0
+Peas,Burewala,2026-11-24,170.0
+Peas,Chak Jhumra,2026-11-24,155.0
+Peas,Chichawatni,2026-11-24,150.0
+Peas,Dera Ghazi Khan,2026-11-24,145.0
+Peas,Faisalabad,2026-11-24,155.0
+Peas,Fort Abbas,2026-11-24,146.0
+Peas,Gujar Khan,2026-11-24,159.0
+Peas,Hafizabad,2026-11-24,147.5
+Peas,Haroon Abad,2026-11-24,140.11
+Peas,Hazro,2026-11-24,163.5
+Peas,Jampur,2026-11-24,235.0
+Peas,Jauharabad,2026-11-24,182.0
+Peas,Jhelum,2026-11-24,166.5
+Peas,Kahror Pacca,2026-11-24,140.0
+Peas,Kot Addu,2026-11-24,215.0
+Peas,Kot Momin,2026-11-24,155.0
+Peas,Lahore,2026-11-24,158.5
+Peas,Layyah,2026-11-24,146.5
+Peas,Lodhran,2026-11-24,140.0
+Peas,Mailsi,2026-11-24,170.0
+Peas,Mamu Kanjan,2026-11-24,145.0
+Peas,Mianwali,2026-11-24,148.5
+Peas,Multan,2026-11-24,145.0
+Peas,Nankana Sahib,2026-11-24,148.5
+Peas,Pakpattan,2026-11-24,145.5
+Peas,Rahim Yar Khan,2026-11-24,165.55
+Peas,Rawalpindi,2026-11-24,154.5
+Peas,Sangla Hill,2026-11-24,148.5
+Peas,Sarai Alamgir,2026-11-24,152.0
+Peas,Sheikhupura,2026-11-24,152.5
+Peas,Sialkot,2026-11-24,157.5
+Peas,Talagang,2026-11-24,167.0
+Peas,Tandlianwala,2026-11-24,150.0
+Peas,Taunsa Sharif,2026-11-24,175.0
+Peas,Vehari,2026-11-24,170.0
+Peas,Wazirabad,2026-11-24,162.0

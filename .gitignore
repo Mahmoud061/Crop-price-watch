@@ -1,0 +1,17 @@
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Temporary exports
+*.tmp
+*.log

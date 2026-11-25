@@ -44,7 +44,11 @@ The Tableau workbook contains four visualizations:
 
 The dashboard includes a Tableau calculated field, date/market filters, and key findings.
 
-**Dashboard file:** `dashboard.twbx` (Tableau Packaged Workbook). Upload it to this repository alongside the source files if it is not yet present; the editable workbook is provided separately in the course submission.
+### Dashboard preview
+
+![Crop Price Watch — Tableau dashboard showing crop prices, three-day price trends, market price differences and distribution](Dashboard.png)
+
+**Interactive workbook:** [Download Dashboard.twbx](Dashboard.twbx) to open locally in Tableau Desktop. The PNG above is a static preview; Tableau filters and tooltips are available in the workbook.
 
 ## Repository structure
 
@@ -54,6 +58,8 @@ Crop-price-watch/
 ├── NOTES.md
 ├── requirements.txt
 ├── scraper.py
+├── Dashboard.png
+├── Dashboard.twbx
 ├── notebooks/
 │   └── Crop_Price_Watch_Organized.ipynb
 ├── data/

@@ -1,4 +1,4 @@
-# Crop Price Watch — Punjab, Pakistan
+# Crop Price Watch 
 
 **A three-day agricultural price-monitoring and Tableau analytics project**
 
